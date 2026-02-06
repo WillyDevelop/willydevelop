@@ -3,7 +3,7 @@
 <h1 align="center">Hola, soy Wilian <img src=
 "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<div align="center" style="border: px solid #000000;>
+<div align="center" style="border: px solid #000000;> 
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Estudiante+de+Desarrollo+de+Software)](https://git.io/typing-svg)
 
