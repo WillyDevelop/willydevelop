@@ -29,8 +29,10 @@ Actualmente me encuentro formándome en tecnologías front-end y back-end, con f
 <p align="center"><!-----Social Accounts------>
 
  <a href="https://x.com/willydevelop">
- <img border="0" alt="Hrugvedtwts" src="https://images.icon-icons.com/4029/PNG/512/twitter_x_new_logo_x_rounded_icon_256078.png"/>
- </a>
+  <img src="https://images.icon-icons.com/4029/PNG/512/twitter_x_new_logo_x_rounded_icon_256078.png" 
+       alt="X Logo" 
+       height="25">
+</a>
 
 <br>
 
