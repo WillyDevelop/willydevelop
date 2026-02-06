@@ -58,9 +58,7 @@ Actualmente me encuentro formándome en tecnologías front-end y back-end, con f
   </a>
 
 </p>
-
-
-
+<br>
 
 ### 📋 Frontend Development
 
@@ -77,7 +75,7 @@ Actualmente me encuentro formándome en tecnologías front-end y back-end, con f
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white"/>
   </a>
 </p>
-
+<br>
 
 ### ♾️ DevOps
 
@@ -93,9 +91,7 @@ Actualmente me encuentro formándome en tecnologías front-end y back-end, con f
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
   </a>
 </p>
-
-
-
+<br>
 
 ### 💾 Base de datos
 
@@ -106,7 +102,7 @@ Actualmente me encuentro formándome en tecnologías front-end y back-end, con f
   </a>
   
 </p>
-
+<br>
 
 ### 🎛️ Sistemas operativos
 
@@ -123,4 +119,4 @@ Actualmente me encuentro formándome en tecnologías front-end y back-end, con f
 
 <br> 
 
-#### <p align="center"><b>Gracias por visita mi perfil</b></p>
+#### <p align="center"><b>Gracias por visitar mi perfil</b></p>
