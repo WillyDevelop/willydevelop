@@ -9,7 +9,7 @@
 
 </div>
 <p align="center" >
- <img  height="280rem" alt="GIF" src="[https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW91enpqems3NnFrZ2hkeGo2cnBpOGlkeXFmOGMweGxhNDN5Mm4zMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif)" />
+ <img  height="280rem" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW91enpqems3NnFrZ2hkeGo2cnBpOGlkeXFmOGMweGxhNDN5Mm4zMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif" />
  </p>
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>Sobre mi</b>
@@ -29,7 +29,7 @@ Actualmente me encuentro formándome en tecnologías front-end y back-end, con f
 <p align="center"><!-----Social Accounts------>
 
  <a href="https://x.com/willydevelop">
- <img border="0" alt="Hrugvedtwts" src="https://img.icons8.com/nolan/40/twitter.png](https://logos-world.net/wp-content/uploads/2023/08/X-Logo.png"/>
+ <img border="0" alt="Hrugvedtwts" src="https://images.icon-icons.com/4029/PNG/512/twitter_x_new_logo_x_rounded_icon_256078.png"/>
  </a>
 
 <br>
