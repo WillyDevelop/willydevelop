@@ -30,12 +30,53 @@
 
 ---
 
-### 
-<p align="center">
-  <a href="#">
-    <img &theme=tokyonight&border_radius=15&title_color=C5A059" />
-  </a>
-</p>
+### PROYECTOS
+<table align="center" border="0">
+  <tr>
+    <td width="50%" style="border-radius: 20px; border: 1px solid #AF52DE; padding: 15px;">
+      <p><b> TypeScript</b></p>
+      <p><font size="2" color="#aaa">Escalando a una arquitectura robusta con <b>TypeScript</b>. Integración profesional de Node.js, Prisma y React con despliegue optimizado para producción.</font></p>
+      <img src="https://skillicons.dev/icons?i=ts,nodejs,postgres,react,prisma&perline=5" />
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/WillyDevelop/TypeScript-progreso.git">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=willydevelop&repo=TypeScript-progreso.git&theme=tokyonight&border_radius=15&title_color=AF52DE&icon_color=AF52DE" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table align="center" border="0">
+  <tr>
+    <td width="55%" style="border-radius: 20px; border: 1px solid #AF52DE; padding: 20px;">
+      <p><b>🎮 Java OOP: Sistema de Combate Pokémon</b></p>
+      <p><font size="2" color="#aaa">Dominio de <b>Clases Abstractas</b> (Qué es) e <b>Interfaces</b> (Qué hace). Implementación de lógica modular para ataques especializados y gestión de atributos comunes mediante herencia y polimorfismo estricto.</font></p>
+      <img src="https://img.shields.io/badge/Paradigma-POO-AF52DE?style=flat-square" />
+      <img src="https://img.shields.io/badge/Lógica-Herencia%20y%20Polimorfismo-AF52DE?style=flat-square" />
+    </td>
+    <td width="45%" align="center">
+      <a href="https://github.com/WillyDevelop/java-pokemon-poo.git">
+        <img src="&repo=java-pokemon-poo.git&theme=tokyonight&border_radius=15&title_color=AF52DE&icon_color=AF52DE" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table align="center" border="0">
+  <tr>
+    <td width="55%" style="border-radius: 20px; border: 1px solid #AF52DE; padding: 20px;">
+      <p><b>Portfolio</b></p>
+      <p><font size="2" color="#aaa">Desarrollo de un sistema CRUD completo con <b>Type-Safety</b> total. Uso de <b>Prisma</b> para modelado relacional en <b>MySQL</b> y un frontend dinámico optimizado con <b>Tailwind CSS</b> para una experiencia de usuario inmersiva.</font></p>
+      <img src="https://img.shields.io/badge/Backend-Node.js%20%26%20Prisma-AF52DE?style=flat-square" />
+      <img src="https://img.shields.io/badge/Frontend-Tailwind%20CSS-AF52DE?style=flat-square" />
+    </td>
+    <td width="45%" align="center">
+      <a href="https://github.com/TU_USUARIO/TU_REPO_VAULT">
+        <img src="&repo=TU_REPO_VAULT&theme=tokyonight&border_radius=15&title_color=AF52DE&icon_color=AF52DE" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
