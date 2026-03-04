@@ -51,7 +51,7 @@
 <table align="center" border="0">
   <tr>
     <td width="55%" style="border-radius: 20px; border: 1px solid #AF52DE; padding: 20px;">
-      <p><b>🎮 Java OOP: Sistema de Combate Pokémon</b></p>
+      <p><b>🎮 Java POO: Sistema de Combate Pokémon</b></p>
       <p><font size="2" color="#aaa">Dominio de <b>Clases Abstractas</b> (Qué es) e <b>Interfaces</b> (Qué hace). Implementación de lógica modular para ataques especializados y gestión de atributos comunes mediante herencia y polimorfismo estricto.</font></p>
       <img src="https://img.shields.io/badge/Paradigma-POO-AF52DE?style=flat-square" />
       <img src="https://img.shields.io/badge/Lógica-Herencia%20y%20Polimorfismo-AF52DE?style=flat-square" />
