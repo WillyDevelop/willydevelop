@@ -40,11 +40,13 @@
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/WillyDevelop/TypeScript-progreso.git">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=willydevelop&repo=TypeScript-progreso.git&theme=tokyonight&border_radius=15&title_color=AF52DE&icon_color=AF52DE" />
+        <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cWYzdTg3b3l1dHNjaHVia2o5cjN2Z2JvNzk2YTB3N3NobnI3bm9mciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" width="40%" style="border-radius: 10px;" alt="Preview del Proyecto" />
       </a>
     </td>
   </tr>
 </table>
+
+
 
 <table align="center" border="0">
   <tr>
@@ -56,7 +58,7 @@
     </td>
     <td width="45%" align="center">
       <a href="https://github.com/WillyDevelop/java-pokemon-poo.git">
-        <img src="&repo=java-pokemon-poo.git&theme=tokyonight&border_radius=15&title_color=AF52DE&icon_color=AF52DE" />
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTNubmV2a3Q0NnZkczhwNXgxajJucHE1NzFhaGJyaXI3cmJybm43cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3wr2cnwlghNomDeN9W/giphy.gif" width="60%" style="border-radius: 10px;" alt="Preview del Proyecto" />
       </a>
     </td>
   </tr>
@@ -71,8 +73,8 @@
       <img src="https://img.shields.io/badge/Frontend-Tailwind%20CSS-AF52DE?style=flat-square" />
     </td>
     <td width="45%" align="center">
-      <a href="https://github.com/TU_USUARIO/TU_REPO_VAULT">
-        <img src="&repo=TU_REPO_VAULT&theme=tokyonight&border_radius=15&title_color=AF52DE&icon_color=AF52DE" />
+      <a href="https://github.com/WillyDevelop/Proyecto-portfolio.git">
+       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" style="border-radius: 10px;" alt="Preview del Proyecto" />
       </a>
     </td>
   </tr>
