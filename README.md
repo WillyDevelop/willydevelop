@@ -35,7 +35,7 @@
   <tr>
     <td width="50%" style="border-radius: 20px; border: 1px solid #AF52DE; padding: 15px;">
       <p><b> TypeScript</b></p>
-      <p><font size="2" color="#aaa">Escalando a una arquitectura robusta con <b>TypeScript</b>. Integración profesional de Node.js, Prisma y React con despliegue optimizado para producción.</font></p>
+      <p><font size="2" color="#aaa">Escalando a una arquitectura robusta con <b>TypeScript</b>. Integración de Node.js, Prisma y React con despliegue optimizado para producción.</font></p>
       <img src="https://skillicons.dev/icons?i=ts,nodejs,postgres,react,prisma&perline=5" />
     </td>
     <td width="50%" align="center">
