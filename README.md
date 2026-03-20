@@ -18,7 +18,7 @@
     </td>
     <td bgcolor="#0d1117" width="60%" align="center" style="border-radius: 20px; border: 1px solid #333;">
       <p align="center"><b>CENTRO DE TECNOLOGÍAS</b></p>
-      <img src="https://skillicons.dev/icons?i=java,javascript,prisma,mysql,ts,nodejs,git,html,css,linux,vscode,ps&perline=4" />
+      <img src="https://skillicons.dev/icons?i=java,python,javascript,prisma,mysql,ts,nodejs,git,html,css,linux,vscode,ps&perline=4" />
     </td>
   </tr>
   <tr>
@@ -51,14 +51,30 @@
 <table align="center" border="0">
   <tr>
     <td width="55%" style="border-radius: 20px; border: 1px solid #AF52DE; padding: 20px;">
-      <p><b>🎮 Java POO: Sistema de Combate Pokémon</b></p>
-      <p><font size="2" color="#aaa">Dominio de <b>Clases Abstractas</b> (Qué es) e <b>Interfaces</b> (Qué hace). Implementación de lógica modular para ataques especializados y gestión de atributos comunes mediante herencia y polimorfismo estricto.</font></p>
+      <p><b>Java POO. Sistema de Combate Pokémon</b></p>
+      <p><font size="2" color="#aaa">Dominio de <b>Clases Abstractas</b> e <b>Interfaces</b>. Implementación de lógica modular para ataques especializados y gestión de atributos comunes mediante herencia y polimorfismo estricto.</font></p>
       <img src="https://img.shields.io/badge/Paradigma-POO-AF52DE?style=flat-square" />
       <img src="https://img.shields.io/badge/Lógica-Herencia%20y%20Polimorfismo-AF52DE?style=flat-square" />
     </td>
     <td width="45%" align="center">
       <a href="https://github.com/WillyDevelop/java-pokemon-poo.git">
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTNubmV2a3Q0NnZkczhwNXgxajJucHE1NzFhaGJyaXI3cmJybm43cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3wr2cnwlghNomDeN9W/giphy.gif" width="60%" style="border-radius: 10px;" alt="Preview del Proyecto" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table align="center" border="0">
+  <tr>
+    <td width="55%" style="border-radius: 20px; border: 1px solid #AF52DE; padding: 20px;">
+      <p><b>Java Desktop. Sistema de Gestión de Automoviles (CRUD)</b></p>
+      <p><font size="2" color="#aaa">Desarrollo de una aplicación integral bajo <b>Arquitectura en Capas.</b> GUI, Lógica y Persistencia. Implementación de <b>JPA Hibernate</b> para el mapeo en MySQL y una interfaz gráfica con <b>Java Swing</b> con gestión completa de datos.</font></p>
+      <img src="https://img.shields.io/badge/Persistencia-JPA%20%26%20Hibernate-AF52DE?style=flat-square" />
+      <img src="https://img.shields.io/badge/Arquitectura-Capas%20(N--Tier)-AF52DE?style=flat-square" />
+    </td>
+    <td width="45%" align="center">
+      <a href="https://github.com/WillyDevelop/java-crud-automoviles.git">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" style="border-radius: 10px;" alt="Preview del Proyecto" />
       </a>
     </td>
   </tr>
