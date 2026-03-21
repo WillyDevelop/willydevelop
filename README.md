@@ -39,7 +39,7 @@
       <img src="https://skillicons.dev/icons?i=html,css,javascript&perline=5" />
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/WillyDevelop/TypeScript-progreso.git">
+      <a href="https://github.com/WillyDevelop/sistema-gestion-hotelera">
         <img src="https://github.com/WillyDevelop/sistema-gestion-hotelera/blob/main/preview.gif" width="80%" style="border-radius: 10px;" alt="Preview del Proyecto" />
       </a>
     </td>
