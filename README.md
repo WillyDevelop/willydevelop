@@ -58,7 +58,7 @@
     </td>
     <td width="45%" align="center">
       <a href="https://github.com/WillyDevelop/java-pokemon-poo.git">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTNubmV2a3Q0NnZkczhwNXgxajJucHE1NzFhaGJyaXI3cmJybm43cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3wr2cnwlghNomDeN9W/giphy.gif" width="60%" style="border-radius: 10px;" alt="Preview del Proyecto" />
+        <img src="https://github.com/WillyDevelop/java-pokemon-poo/blob/master/src/integradorpokemon/preview.gif" width="60%" style="border-radius: 10px;" alt="Preview del Proyecto" />
       </a>
     </td>
   </tr>
