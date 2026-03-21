@@ -55,7 +55,7 @@
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/WillyDevelop/Practicas-TypeScript">
-        <img src=" " width="80%" style="border-radius: 10px;" alt="Preview del Proyecto" />
+        <img src="https://github.com/WillyDevelop/Practicas-TypeScript/blob/main/preview.gif" width="80%" style="border-radius: 10px;" alt="Preview del Proyecto" />
       </a>
     </td>
   </tr>
