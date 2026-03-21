@@ -4,7 +4,7 @@
 
 ---
 
-### 🌌 SISTEMA DE OPERACIONES
+### SISTEMA DE OPERACIONES
 
 <table align="center" border="0" cellpadding="0" cellspacing="10">
   <tr>
