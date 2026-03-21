@@ -73,10 +73,10 @@
       <img src="https://img.shields.io/badge/Arquitectura-Capas%20(N--Tier)-AF52DE?style=flat-square" />
     </td>
     <td width="45%" align="center">
-      <a href="https://github.com/WillyDevelop/java-crud-automoviles.git">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" style="border-radius: 10px;" alt="Preview del Proyecto" />
-      </a>
-    </td>
+  <a href="https://github.com/WillyDevelop/Automoviles-JPA-Swing.git">
+    <img src="src/main/resources/Crud.gif" width="100%" style="border-radius: 10px;" alt="Demo del CRUD Automóviles" />
+  </a>
+</td>
   </tr>
 </table>
 
