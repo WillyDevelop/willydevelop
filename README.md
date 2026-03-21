@@ -74,7 +74,7 @@
     </td>
     <td width="45%" align="center">
   <a href="https://github.com/WillyDevelop/Automoviles-JPA-Swing.git">
-    <img src="src/main/resources/Crud.gif" width="100%" style="border-radius: 10px;" alt="Demo del CRUD Automóviles" />
+    <img src="https://github.com/WillyDevelop/Automoviles-JPA-Swing/blob/main/src/main/resources/Crud.gif" width="100%" style="border-radius: 10px;" alt="Demo del CRUD Automóviles" />
   </a>
 </td>
   </tr>
