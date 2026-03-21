@@ -34,13 +34,13 @@
 <table align="center" border="0">
   <tr>
     <td width="50%" style="border-radius: 20px; border: 1px solid #AF52DE; padding: 15px;">
-      <p><b> TypeScript</b></p>
-      <p><font size="2" color="#aaa">Escalando a una arquitectura robusta con <b>TypeScript</b>. Integración de Node.js, Prisma y React con despliegue optimizado para producción.</font></p>
-      <img src="https://skillicons.dev/icons?i=ts,nodejs,postgres,react,prisma&perline=5" />
+      <p><b>Sistema de gestion Hotelera</b></p>
+      <p><font size="2" color="#aaa">Sistema de gestión hotelera desarrollado para Prácticas Profesionalizantes I. Permite administrar registros de huéspedes, calcular costos con descuentos y gestionar turnos de empleados usando LocalStorage.</font></p>
+      <img src="https://skillicons.dev/icons?i=html,css,javascript&perline=5" />
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/WillyDevelop/TypeScript-progreso.git">
-        <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cWYzdTg3b3l1dHNjaHVia2o5cjN2Z2JvNzk2YTB3N3NobnI3bm9mciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" width="40%" style="border-radius: 10px;" alt="Preview del Proyecto" />
+        <img src="https://github.com/WillyDevelop/sistema-gestion-hotelera/blob/main/preview.gif" width="80%" style="border-radius: 10px;" alt="Preview del Proyecto" />
       </a>
     </td>
   </tr>
@@ -53,12 +53,13 @@
     <td width="55%" style="border-radius: 20px; border: 1px solid #AF52DE; padding: 20px;">
       <p><b>Java POO. Sistema de Combate Pokémon</b></p>
       <p><font size="2" color="#aaa">Dominio de <b>Clases Abstractas</b> e <b>Interfaces</b>. Implementación de lógica modular para ataques especializados y gestión de atributos comunes mediante herencia y polimorfismo estricto.</font></p>
+      <img src="https://skillicons.dev/icons?i=java&perline=5" />
       <img src="https://img.shields.io/badge/Paradigma-POO-AF52DE?style=flat-square" />
       <img src="https://img.shields.io/badge/Lógica-Herencia%20y%20Polimorfismo-AF52DE?style=flat-square" />
     </td>
     <td width="45%" align="center">
       <a href="https://github.com/WillyDevelop/java-pokemon-poo.git">
-        <img src="https://github.com/WillyDevelop/java-pokemon-poo/blob/master/src/integradorpokemon/preview.gif" width="60%" style="border-radius: 10px;" alt="Preview del Proyecto" />
+        <img src="https://github.com/WillyDevelop/java-pokemon-poo/blob/master/src/integradorpokemon/preview.gif" width="100%" style="border-radius: 10px;" alt="Preview del Proyecto" />
       </a>
     </td>
   </tr>
@@ -69,6 +70,7 @@
     <td width="55%" style="border-radius: 20px; border: 1px solid #AF52DE; padding: 20px;">
       <p><b>Java Desktop. Sistema de Gestión de Automoviles (CRUD)</b></p>
       <p><font size="2" color="#aaa">Desarrollo de una aplicación integral bajo <b>Arquitectura en Capas.</b> GUI, Lógica y Persistencia. Implementación de <b>JPA Hibernate</b> para el mapeo en MySQL y una interfaz gráfica con <b>Java Swing</b> con gestión completa de datos.</font></p>
+      <img src="https://skillicons.dev/icons?i=java&perline=5" />
       <img src="https://img.shields.io/badge/Persistencia-JPA%20%26%20Hibernate-AF52DE?style=flat-square" />
       <img src="https://img.shields.io/badge/Arquitectura-Capas%20(N--Tier)-AF52DE?style=flat-square" />
     </td>
@@ -84,9 +86,7 @@
   <tr>
     <td width="55%" style="border-radius: 20px; border: 1px solid #AF52DE; padding: 20px;">
       <p><b>Portfolio</b></p>
-      <p><font size="2" color="#aaa">Desarrollo de un sistema CRUD completo con <b>Type-Safety</b> total. Uso de <b>Prisma</b> para modelado relacional en <b>MySQL</b> y un frontend dinámico optimizado con <b>Tailwind CSS</b> para una experiencia de usuario inmersiva.</font></p>
-      <img src="https://img.shields.io/badge/Backend-Node.js%20%26%20Prisma-AF52DE?style=flat-square" />
-      <img src="https://img.shields.io/badge/Frontend-Tailwind%20CSS-AF52DE?style=flat-square" />
+      <p><font size="2" color="#aaa">Proximamente...</font></p>
     </td>
     <td width="45%" align="center">
       <a href="https://github.com/WillyDevelop/Proyecto-portfolio.git">
