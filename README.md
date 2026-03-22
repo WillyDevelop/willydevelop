@@ -49,6 +49,21 @@
 <table align="center" border="0">
   <tr>
     <td width="50%" style="border-radius: 20px; border: 1px solid #AF52DE; padding: 15px;">
+      <p><b>Calculadora prestamos</b></p>
+      <p><font size="2" color="#aaa">Web app para el cálculo de préstamos bajo el sistema francés. Incluye persistencia de datos con LocalStorage, diseño responsive con Neumorfismo y validación de entradas en tiempo real.</font></p>
+      <img src="https://skillicons.dev/icons?i=html,css,javascript&perline=5" />
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/WillyDevelop/calculadora-prestamos">
+        <img src="https://github.com/WillyDevelop/sistema-gestion-hotelera/blob/main/preview.gif" width="80%" style="border-radius: 10px;" alt="Preview del Proyecto" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table align="center" border="0">
+  <tr>
+    <td width="50%" style="border-radius: 20px; border: 1px solid #AF52DE; padding: 15px;">
       <p><b>TypeScript: Gestor simple de Tareas Académicas</b></p>
       <p><font size="2" color="#aaa">Lista de tareas dinámica desarrollada con TypeScript y Vite. Enfocada en la organización de actividades con un sistema de tipado que evita errores y una configuración moderna que permite un funcionamiento rápido y fluido en el navegador.</font></p>
       <img src="https://skillicons.dev/icons?i=typescript,vite&perline=5" />
