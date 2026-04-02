@@ -31,51 +31,24 @@
 ---
 
 ### PROYECTOS
-<table align="center" border="0">
-  <tr>
-    <td width="50%" style="border-radius: 20px; border: 1px solid #AF52DE; padding: 15px;">
-      <p><b>Sistema de gestion Hotelera</b></p>
-      <p><font size="2" color="#aaa">Sistema de gestión hotelera desarrollado para Prácticas Profesionalizantes I. Permite administrar registros de huéspedes, calcular costos con descuentos y gestionar turnos de empleados usando LocalStorage.</font></p>
-      <img src="https://skillicons.dev/icons?i=html,css,javascript&perline=5" />
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/WillyDevelop/sistema-gestion-hotelera">
-        <img src="https://github.com/WillyDevelop/sistema-gestion-hotelera/blob/main/preview.gif" width="80%" style="border-radius: 10px;" alt="Preview del Proyecto" />
-      </a>
-    </td>
-  </tr>
-</table>
+
 
 <table align="center" border="0">
   <tr>
-    <td width="50%" style="border-radius: 20px; border: 1px solid #AF52DE; padding: 15px;">
-      <p><b>Calculadora prestamos</b></p>
-      <p><font size="2" color="#aaa">Web app para el cálculo de préstamos bajo el sistema francés. Incluye persistencia de datos con LocalStorage, diseño responsive con Neumorfismo y validación de entradas en tiempo real.</font></p>
-      <img src="https://skillicons.dev/icons?i=js,css,html&perline=5" />
+    <td width="55%" style="border-radius: 20px; border: 1px solid #AF52DE; padding: 20px;">
+      <p><b>Java Desktop. Sistema de Gestión de Automoviles (CRUD)</b></p>
+      <p><font size="2" color="#aaa">Desarrollo de una aplicación integral bajo <b>Arquitectura en Capas.</b> GUI, Lógica y Persistencia. Implementación de <b>JPA Hibernate</b> para el mapeo en MySQL y una interfaz gráfica con <b>Java Swing</b> con gestión completa de datos.</font></p>
+      <img src="https://skillicons.dev/icons?i=java&perline=5" />
+      <img src="https://img.shields.io/badge/Persistencia-JPA%20%26%20Hibernate-AF52DE?style=flat-square" />
+      <img src="https://img.shields.io/badge/Arquitectura-Capas%20(N--Tier)-AF52DE?style=flat-square" />
     </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/WillyDevelop/calculadora-prestamos">
-        <img src="https://github.com/WillyDevelop/calculadora-prestamos/blob/main/preview.gif" width="80%" style="border-radius: 10px;" alt="Preview del Proyecto" />
-      </a>
-    </td>
+    <td width="45%" align="center">
+  <a href="https://github.com/WillyDevelop/Automoviles-JPA-Swing.git">
+    <img src="https://github.com/WillyDevelop/Automoviles-JPA-Swing/blob/main/src/main/resources/Crud.gif" width="100%" style="border-radius: 10px;" alt="Demo del CRUD Automóviles" />
+  </a>
+</td>
   </tr>
 </table>
-
-<table align="center" border="0">
-  <tr>
-    <td width="50%" style="border-radius: 20px; border: 1px solid #AF52DE; padding: 15px;">
-      <p><b>TypeScript: Gestor simple de Tareas Académicas</b></p>
-      <p><font size="2" color="#aaa">Lista de tareas dinámica desarrollada con TypeScript y Vite. Enfocada en la organización de actividades con un sistema de tipado que evita errores y una configuración moderna que permite un funcionamiento rápido y fluido en el navegador.</font></p>
-      <img src="https://skillicons.dev/icons?i=typescript,vite&perline=5" />
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/WillyDevelop/Practicas-TypeScript">
-        <img src="https://github.com/WillyDevelop/Practicas-TypeScript/blob/main/preview.gif" width="80%" style="border-radius: 10px;" alt="Preview del Proyecto" />
-      </a>
-    </td>
-  </tr>
-</table>
-
 
 
 <table align="center" border="0">
@@ -95,22 +68,54 @@
   </tr>
 </table>
 
+
 <table align="center" border="0">
   <tr>
-    <td width="55%" style="border-radius: 20px; border: 1px solid #AF52DE; padding: 20px;">
-      <p><b>Java Desktop. Sistema de Gestión de Automoviles (CRUD)</b></p>
-      <p><font size="2" color="#aaa">Desarrollo de una aplicación integral bajo <b>Arquitectura en Capas.</b> GUI, Lógica y Persistencia. Implementación de <b>JPA Hibernate</b> para el mapeo en MySQL y una interfaz gráfica con <b>Java Swing</b> con gestión completa de datos.</font></p>
-      <img src="https://skillicons.dev/icons?i=java&perline=5" />
-      <img src="https://img.shields.io/badge/Persistencia-JPA%20%26%20Hibernate-AF52DE?style=flat-square" />
-      <img src="https://img.shields.io/badge/Arquitectura-Capas%20(N--Tier)-AF52DE?style=flat-square" />
+    <td width="50%" style="border-radius: 20px; border: 1px solid #AF52DE; padding: 15px;">
+      <p><b>TypeScript: Gestor simple de Tareas Académicas</b></p>
+      <p><font size="2" color="#aaa">Lista de tareas dinámica desarrollada con TypeScript y Vite. Enfocada en la organización de actividades con un sistema de tipado que evita errores y una configuración moderna que permite un funcionamiento rápido y fluido en el navegador.</font></p>
+      <img src="https://skillicons.dev/icons?i=typescript,vite&perline=5" />
     </td>
-    <td width="45%" align="center">
-  <a href="https://github.com/WillyDevelop/Automoviles-JPA-Swing.git">
-    <img src="https://github.com/WillyDevelop/Automoviles-JPA-Swing/blob/main/src/main/resources/Crud.gif" width="100%" style="border-radius: 10px;" alt="Demo del CRUD Automóviles" />
-  </a>
-</td>
+    <td width="50%" align="center">
+      <a href="https://github.com/WillyDevelop/Practicas-TypeScript">
+        <img src="https://github.com/WillyDevelop/Practicas-TypeScript/blob/main/preview.gif" width="80%" style="border-radius: 10px;" alt="Preview del Proyecto" />
+      </a>
+    </td>
   </tr>
 </table>
+
+
+<table align="center" border="0">
+  <tr>
+    <td width="50%" style="border-radius: 20px; border: 1px solid #AF52DE; padding: 15px;">
+      <p><b>Sistema de gestion Hotelera</b></p>
+      <p><font size="2" color="#aaa">Sistema de gestión hotelera desarrollado para Prácticas Profesionalizantes I. Permite administrar registros de huéspedes, calcular costos con descuentos y gestionar turnos de empleados usando LocalStorage.</font></p>
+      <img src="https://skillicons.dev/icons?i=html,css,javascript&perline=5" />
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/WillyDevelop/sistema-gestion-hotelera">
+        <img src="https://github.com/WillyDevelop/sistema-gestion-hotelera/blob/main/preview.gif" width="80%" style="border-radius: 10px;" alt="Preview del Proyecto" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+<table align="center" border="0">
+  <tr>
+    <td width="50%" style="border-radius: 20px; border: 1px solid #AF52DE; padding: 15px;">
+      <p><b>Calculadora prestamos</b></p>
+      <p><font size="2" color="#aaa">Web app para el cálculo de préstamos bajo el sistema francés. Incluye persistencia de datos con LocalStorage, diseño responsive con Neumorfismo y validación de entradas en tiempo real.</font></p>
+      <img src="https://skillicons.dev/icons?i=js,css,html&perline=5" />
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/WillyDevelop/calculadora-prestamos">
+        <img src="https://github.com/WillyDevelop/calculadora-prestamos/blob/main/preview.gif" width="80%" style="border-radius: 10px;" alt="Preview del Proyecto" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 <table align="center" border="0">
   <tr>
