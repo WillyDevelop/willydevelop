@@ -33,6 +33,27 @@
 ### PROYECTOS
 
 
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="60%" style="border-radius: 20px; border: 2px solid #AF52DE; padding: 30px; background-color: #0d1117;">
+      <h3 align="left">☕ Java Desktop: Sistema Administrador de Usuarios</h3>
+      <p align="left">
+        <font size="3" color="#e6edf3">Un sistema de escritorio completo (CRUD) desarrollado en Java, con interfaz gráfica en Swing y conexión a base de datos MySQL utilizando JPA (Hibernate).Este proyecto implementa una arquitectura multicapas estricta (GUI, Lógica y Persistencia) y cuenta con un sistema de autenticación basado en roles (Admin/User).</font>
+      </p>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=java,mysql,hibernate&theme=dark" />
+      <br/><br />
+      <img src="https://img.shields.io/badge/Persistencia-JPA%20%26%20Hibernate-AF52DE?style=for-the-badge&logo=hibernate&logoColor=white" />
+      <img src="https://img.shields.io/badge/Arquitectura-Capas%20(DAO%2FLogic)-AF52DE?style=for-the-badge&logo=java&logoColor=white" />
+    </td>
+    <td width="40%" align="center" style="padding-left: 20px;">
+      <a href="https://github.com/WillyDevelop/administrador-usuarios-java">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=WillyDevelop&repo=administrador-usuarios-java&theme=dracula&border_color=AF52DE&title_color=AF52DE" alt="Repo Stats" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 <table align="center" border="0">
   <tr>
     <td width="55%" style="border-radius: 20px; border: 1px solid #AF52DE; padding: 20px;">
