@@ -48,7 +48,7 @@
     </td>
     <td width="40%" align="center" style="padding-left: 20px;">
       <a href="https://github.com/WillyDevelop/administrador-usuarios-java">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=WillyDevelop&repo=administrador-usuarios-java&theme=dracula&border_color=AF52DE&title_color=AF52DE" alt="Repo Stats" />
+        <img src="https://github.com/WillyDevelop/administrador-usuarios-java/blob/main/src/main/resources/preview.gif" alt="Repo Stats" />
       </a>
     </td>
   </tr>
