@@ -38,7 +38,7 @@
     <td width="60%" style="border-radius: 20px; border: 2px solid #AF52DE; padding: 30px; background-color: #0d1117;">
       <h3 align="left">☕ Java Desktop: Sistema Administrador de Usuarios</h3>
       <p align="left">
-        <font size="3" color="#e6edf3">Aplicación Java de gestión de usuarios con autenticación basada en roles. Implementa una separación estricta de capas (GUI, Lógica, Persistencia) utilizando Java Swing, JPA 2.2, Hibernate y MySQL..</font>
+        <font size="3" color="#e6edf3">Aplicación Java de gestión de usuarios con autenticación basada en roles. Implementa una separación estricta de capas (GUI, Lógica, Persistencia) utilizando Java Swing, JPA 2.2, Hibernate y MySQL.</font>
       </p>
       <br/>
       <img src="https://skillicons.dev/icons?i=java,mysql,hibernate&theme=dark" />
